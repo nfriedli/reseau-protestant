@@ -1,7 +1,7 @@
 ---
 title: Réseau protestant réformé de Suisse romande
 description: Une proposition pragmatique pour entretenir la solidarité entre les différents sites du web protestant de Suisse romande.
-date: 2002-04-03
+date: 2020-04-03
 ---
 
 Une proposition pragmatique pour entretenir la solidarité entre les différents sites du web protestant de Suisse romande.
