@@ -15,7 +15,6 @@ La liste a été publiée sur les pages suivantes (à notre connaissance):
 * https://dianefriedli.ch/reseau-protestant/
 * https://eliojaillet.ch/reseau-protestant/
 * https://epg.ch/reseau-protestant/
-* https://exegese.ch/blog/reseau/
 * https://jeanmarcleresche.ch/reseau-protestant/
 * https://jecherchedieu.ch/ressources/une-liste-de-sites-web-dans-le-reseau-protestant-romand/
 * https://lauredevaux.ch/reseau-protestant/
