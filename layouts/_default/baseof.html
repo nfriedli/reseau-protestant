@@ -32,10 +32,10 @@
 <body>
   <header>
     <nav>
-      <a href="/" rel="home">{{ .Site.Title }}</a>
-      <a href="/liste/">Une liste</a>
-      <a href="/technique/">Technique</a>
-      <a href="/contacts/">Contacts</a>
+      {{ $current := . }}
+      {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}"{{ if eq $current.RelPermalink .URL  }} class="on"{{ end }}>{{ .Title }}</a>
+      {{ end }}
     </nav>
   </header>
   {{ block "main" . }}{{ end }}

@@ -1,5 +1,9 @@
 ---
 title: Informations techniques et référencement
+menu:
+  main: 
+    title: Technique
+    weight: 30
 description: Pourquoi certains sites sont plus visibles que d'autres et comment être solidaire en créant un réseau.
 date: 2020-04-03
 --- 

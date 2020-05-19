@@ -1,5 +1,9 @@
 ---
 title: Contacter les responsables du site
+menu:
+  main: 
+    title: Contacts
+    weight: 40
 description: Une question technique? Une proposition? Un soutien? Contactez-nous!
 date: 2020-04-03
 --- 
@@ -9,20 +13,16 @@ Vous souhaitez nous proposer des changements dans la liste?
 Vous voulez nous soutenir?
 Contactez-nous:
 
-- **[Marc Pernot](https://jecherchedieu.ch/temoignages/temoin/page-de-l-auteur-marc-pernot-pasteur-eglise-protestante-de-geneve/)**  
-  Pasteur EPG  
-  [marc.pernot@protestant.ch](mailto:marc.pernot@protestant.ch)
-- **[Nicolas Friedli](https://nicolasfriedli.ch/contacts/)**  
-  Webmaster EREN  
-  [nicolasfriedli@protonmail.ch](mailto:nicolasfriedli@protonmail.ch)
+- **[Marc Pernot](https://jecherchedieu.ch/temoignages/temoin/page-de-l-auteur-marc-pernot-pasteur-eglise-protestante-de-geneve/)**, pasteur EPG, [marc.pernot@protestant.ch](mailto:marc.pernot@protestant.ch)
+- **[Nicolas Friedli](https://nicolasfriedli.ch/contact/)**, webmaster EREN, [nicolasfriedli@protonmail.ch](mailto:nicolasfriedli@protonmail.ch)
 
 ## Merci!
 
 Pour leur soutien lors de l'élaboration de la liste, un grand merci à:
 
-- Philippe Golaz
+- Philippe Golaz, [philippegolaz.ch](https://philippegolaz.ch/)
 - Étienne Guilloud
-- Elio Jaillet
-- Jean-Marc Leresche
+- Elio Jaillet, [eliojaillet.ch](https://eliojaillet.ch/)
+- Jean-Marc Leresche, [jeanmarcleresche.ch](https://jeanmarcleresche.ch/)
 
 Ainsi qu'à toutes les personnes qui la relaient sur leurs sites personnels ou institutionnels.

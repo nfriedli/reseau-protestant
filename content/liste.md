@@ -1,11 +1,15 @@
 ---
 title: Une liste de sites web
+menu:
+  main: 
+    title: Une liste
+    weight: 20
 description: Des sites Internet représentatifs du web protestant réformé de Suisse romande, classés par catégories.
-date: 2020-04-23
+date: 2020-05-19
 ---
 
 Source: https://reseau-protestant.ch/liste/  
-Version du 23 avril 2020
+Version du 19 mai 2020
 
 ## Lieux d'Église
 

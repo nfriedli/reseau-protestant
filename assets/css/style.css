@@ -66,10 +66,12 @@ header {
 
 footer {
     margin-top: var(--step-3);
+    font-size: 90%;
+    text-align: center;
 }
 
 a {
-color: hsl(180, 71%, 20%);
+color: hsl(180, 70%, 20%);
 }
 
 nav {
@@ -88,7 +90,16 @@ text-decoration: none;
 color: #333;
 border: 1px solid #ccc;
 padding: 1%;
-border-radius: 5%;
+border-radius: .2rem;
+}
+
+header a.on, header a:hover {
+border-color: hsl(180, 70%, 20%);
+background-color: hsl(180, 70%, 95%);
+}
+
+header a:hover {
+transition: 0.5s;
 }
 
 h1 {
@@ -114,22 +125,3 @@ margin-bottom: .5rem;
 ul li {
 list-style: square;
 }
-
-/* Version liste flex sur toutes les pages...
-
-ul {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-
-    margin: 0;
-    padding: 0;
-}
-
-ul li {
-    list-style-type: none;
-    margin-right: 1em;
-    padding: 0;
-}
-
-*/

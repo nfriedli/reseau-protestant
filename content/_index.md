@@ -1,5 +1,9 @@
 ---
 title: Réseau protestant réformé de Suisse romande
+menu:
+  main: 
+    title: Réseau protestant
+    weight: 10
 description: Une proposition pragmatique pour entretenir la solidarité entre les différents sites du web protestant de Suisse romande.
 date: 2020-04-03
 ---
@@ -13,7 +17,7 @@ C'est en créant un réseau que nous sommes plus forts!
 2. La copier telle quelle sur une page de votre site, avec le lien vers source et la version.
 3. Facultatif: nous signaler votre page publiée.
 
-Note: un lien vers ce site est bienvenu, mais ne remplace pas la publication de la liste complète.
+Un lien vers ce site est bienvenu, mais ne remplace pas la publication de la liste complète.
 
 ## Liste des sites
 
@@ -25,7 +29,7 @@ Elle ne prétend pas à l'exhaustivité mais essaie d'être représentative du w
 
 ## Motivation
 
-En publiant un la liste du *Réseau protestant* du votre site, vous permettez:
+En publiant la liste du *Réseau protestant* du votre site, vous permettez:
 
 - aux internautes d'avoir un aperçu rapide du panorama réformé romand;
 - aux moteurs de recherche de mieux *comprendre* l'existence d'une galaxie protestante en Suisse romande.

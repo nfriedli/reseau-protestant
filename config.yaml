@@ -14,3 +14,10 @@ disableKinds:
   - taxonomyTerm
 
 googleAnalytics: UA-162767126-1
+
+sectionPagesMenu: main
+
+markup:
+  goldmark:
+    parser:
+      autoHeadingIDType: github-ascii # Suppression des accents dans les #id
