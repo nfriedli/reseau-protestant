@@ -16,9 +16,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;700&family=Alegreya:ital,wght@0,400;0,700;1,400;1,700&display=optional" rel="stylesheet">
   {{ $styles := resources.Get "css/style.css" | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
-  <meta name="author" content="Nicolas Friedli">
-  <meta property="article:publisher" content="https://www.facebook.com/nicolasfriedli.ch" />
-  <meta property="article:author" content="https://www.facebook.com/nicolasfriedli.ch" />
   <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
   <link rel="shortcut icon" href="/img/favicon.ico">
   <link rel="manifest" href="/manifest.json">
@@ -44,8 +41,4 @@
       licence CC0.</p>
   </footer>
 </body>
-<script>
-  if (navigator.serviceWorker && !navigator.serviceWorker.controller) { navigator.serviceWorker.register('/serviceworker.js'); }
-</script>
-
 </html>

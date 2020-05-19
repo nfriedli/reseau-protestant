@@ -13,8 +13,8 @@ Vous souhaitez nous proposer des changements dans la liste?
 Vous voulez nous soutenir?
 Contactez-nous:
 
-- **[Marc Pernot](https://jecherchedieu.ch/temoignages/temoin/page-de-l-auteur-marc-pernot-pasteur-eglise-protestante-de-geneve/)**, pasteur EPG, [marc.pernot@protestant.ch](mailto:marc.pernot@protestant.ch)
-- **[Nicolas Friedli](https://nicolasfriedli.ch/contact/)**, webmaster EREN, [nicolasfriedli@protonmail.ch](mailto:nicolasfriedli@protonmail.ch)
+- [Marc Pernot](https://jecherchedieu.ch/temoignages/temoin/page-de-l-auteur-marc-pernot-pasteur-eglise-protestante-de-geneve/), pasteur EPG, [marc.pernot@protestant.ch](mailto:marc.pernot@protestant.ch)
+- [Nicolas Friedli](https://nicolasfriedli.ch/contact/), webmaster EREN, [nicolasfriedli@protonmail.ch](mailto:nicolasfriedli@protonmail.ch)
 
 ## Merci!
 
