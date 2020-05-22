@@ -19,5 +19,7 @@ sectionPagesMenu: main
 
 markup:
   goldmark:
+    extensions:
+      typographer: true
     parser:
       autoHeadingIDType: github-ascii # Suppression des accents dans les #id

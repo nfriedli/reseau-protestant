@@ -13,7 +13,7 @@
   {{ end }}
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="alternate" type="application/rss+xml" href="{{ .Site.BaseURL }}index.xml" title="{{ .Site.Title }}">
-  <link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@400;700&family=Alegreya:ital,wght@0,400;0,700;1,400;1,700&display=optional" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Varela+Round&display=swap" rel="stylesheet"> 
   {{ $styles := resources.Get "css/style.css" | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
   <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">

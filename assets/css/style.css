@@ -3,7 +3,7 @@
 --fluid-min-width: 320;
 --fluid-max-width: 1140;
 --fluid-min-size: 16;
---fluid-max-size: 24;
+--fluid-max-size: 20;
 --fluid-min-ratio: 1.125;
 --fluid-max-ratio: 1.2;
 
@@ -47,15 +47,19 @@
 }
 
 html {
-font-family: 'Alegreya', serif;
+font-family: Lora, serif;
 color: #333;
 background: #FFF;
 font-size: var(--step-0);
 line-height: 1.4;
 }
 
+h1, h2, header, footer {
+font-family: 'Varela Round', sans-serif;
+}
+
 body {
-max-width: 35rem;
+max-width: 40rem;
 margin: auto;
 padding: var(--step-1);
 }
