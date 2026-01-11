@@ -1,7 +1,4 @@
----
-title: Réseau protestant réformé de Suisse romande
-layout: default
----
+# Réseau protestant réformé de Suisse romande
 
 Le [Réseau protestant](https://reseau-protestant.ch/) a été mis en sommeil en décembre 2025.
 Cette page reprend la [liste de sites](https://reseau-protestant.ch/liste/) qu’il proposait et l’actualise.
