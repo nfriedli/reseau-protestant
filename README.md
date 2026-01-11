@@ -1,15 +1,5 @@
 # Réseau protestant réformé de Suisse romande
 
-## Lieux d'Église
-
-- [Paroisse de la Neuveville](https://paref2520.ch)
-- [Paroisse réformée d'Ollon-Villars](https://ollonvillars.eerv.ch)
-- [Paroisse en ligne (je cherche Dieu.ch)](https://jecherchedieu.ch/)
-- [Paroisses du syndicat de l'Erguël](https://www.referguel.ch)
-- [Région du Chablais vaudois](https://chablaisvaudois.eerv.ch/)
-- [Région « Lac-en-Ciel » (Diesse, Nods,  Neuveville)](https://m.lac-en-ciel.ch)
-- [Sans le seuil](http://sansleseuil.ch/)
-
 ## Réflexion & théologie
 
 - [Avent en vers](http://aventenvers.blogspot.com/)
@@ -19,7 +9,6 @@
 - [Miettes de Carême](https://miettesdecareme.blogspot.com/)
 - [Open Source Church](https://www.open-source.church/)
 - [Perspectives protestantes](http://perspectivesprotestantes.ch/)
-- [Theologus](https://theologus.ch/)
 
 ## Blogs et sites personnels
 
@@ -107,12 +96,10 @@
 
 - [ACAT-Suisse](https://www.acat.ch/fr/)
 - [Aumônerie Genevoise Oecuménique auprès des Requérants d'Asile et des Réfugiés (AGORA)](https://agora-asile.ch/)
-- [Association diaconale romande](https://diaconat.ch/)
 - [Chrétiens au travail](https://chretiensautravail.ch/)
 - [Diaconie.ch](https://www.diaconie.ch/)
 - [DM Dynamique dans l'échange (ex DM échange et mission)](https://www.dmr.ch/)
 - [Eglise en route](https://egliseenroute.ch/)
 - [EPER](https://www.eper.ch/)
-- [La Margelle](https://la-margelle.ch/)
 - [La Lanterne](https://www.eren.ch/lanterne)
 - [Plateforme interreligieuse de Genève](http://www.interreligieux.ch/)
