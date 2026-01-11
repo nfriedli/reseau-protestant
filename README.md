@@ -1,4 +1,7 @@
-# Réseau protestant réformé de Suisse romande
+---
+title: Réseau protestant réformé de Suisse romande
+layout: default
+---
 
 Le [Réseau protestant](https://reseau-protestant.ch/) a été mis en sommeil en décembre 2025.
 Cette page reprend la [liste de sites](https://reseau-protestant.ch/liste/) qu’il proposait et l’actualise.
@@ -56,7 +59,7 @@ Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli
 
 - [Atelier Œcuménique de théologie](https://www.aotge.ch/)
 - [Cèdres Formation](https://cedresformation.ch/)
-- [Comcat - catéchèse francophone des Eglises réformées Berne-Jura-Soleure](http://cate.ch)
+- [Comcat - catéchèse francophone des Églises réformées Berne-Jura-Soleure](http://cate.ch)
 - [Faculté de théologie de Genève](https://www.unige.ch/theologie/)
 - [Faculté de théologie et de sciences des religions de Lausanne](https://www.unil.ch/ftsr/)
 - [Héros Bibliques](https://heros-bibliques.ch/)
@@ -96,7 +99,7 @@ Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli
 
 ## Médias
 
-- [Réf-Médias](https://www.ref-medias.ch)(ex Médias-pro)
+- [Réf-Médias](https://www.ref-medias.ch) (ex Médias-pro)
 - [ProtestInfo](https://www.protestinfo.ch)
 - [Journal Réformés](https://www.reformes.press/)
 - [Portail Réformés.ch](https://www.reformes.ch/)
@@ -108,7 +111,7 @@ Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli
 - [Mouvement chrétien citoyen](https://mouvement-chretien-citoyen.ch/)
 - [Diaconie.ch](https://www.diaconie.ch/)
 - [DM Dynamique dans l’échange (ex DM échange et mission)](https://www.dmr.ch/)
-- [Eglise en route](https://egliseenroute.ch/)
+- [Église en route](https://egliseenroute.ch/)
 - [EPER](https://www.eper.ch/)
 - [La Lanterne](https://www.eren.ch/lanterne)
 - [Plateforme interreligieuse de Genève](http://www.interreligieux.ch/)
