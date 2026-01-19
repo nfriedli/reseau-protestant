@@ -29,6 +29,7 @@ Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli
 - [Noémie Emery](http://pelerine-au-chocolat.blogspot.com/)
 - [Richard Falo](https://richardfalo.com)
 - [Diane Friedli](https://dianefriedli.ch/)
+- [Nicolas Friedli](https://theologique.ch/)
 - [Maurice Gardiol](http://www.gardiol.net)
 - [Philippe Golaz](https://philippegolaz.ch/)
 - [Jerôme Grandet](https://jeromeg.ch/)
