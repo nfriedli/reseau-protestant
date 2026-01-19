@@ -8,29 +8,31 @@ Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli
 
 ## Réflexion & théologie
 
-- [Avent en vers](http://aventenvers.blogspot.com/)
+- [Avent en vers](https://aventenvers.blogspot.com/)
 - [Cèdres Réflexion](https://cedresreflexion.ch/)
 - [Célébrer.ch](https://celebrer.ch/)
 - [ContactGPS](https://www.contactgps.ch)
 - [Labo khi](https://labokhi.ch)
 - [Miettes de Carême](https://miettesdecareme.blogspot.com/)
 - [Open Source Church](https://www.open-source.church/)
-- [Perspectives protestantes](http://perspectivesprotestantes.ch/)
+- [Perspectives protestantes](https://perspectivesprotestantes.ch/)
+- [Pertinence](https://www.pertinence.ch/)
+- [Rassemblement pour un renouveau réformé (R3)](https://www.ler3.ch/)
 
 ## Blogs & sites personnels
 
 - [René Blanchet](https://www.predic.ch/)
-- [Gilles Bourquin](http://gillesbourquin.ch/)
+- [Gilles Bourquin](https://gillesbourquin.ch/)
 - [Martin Burkhard](https://coeuretmonde.wordpress.com/)
 - [Benjamin Corbaz](https://carnetderoutedunpasteurpassionne.blogspot.com/)
-- [Carolina Costa](https://carolina-costa.com/) et [Road Trip Spirituel](http://www.roadtripspirituel.ch/)
-- [Claude Demissy](http://www.claude-ecritures.ch/)
+- [Carolina Costa](https://carolina-costa.com/) et [Road Trip Spirituel](https://www.roadtripspirituel.ch/)
+- [Claude Demissy](https://www.claude-ecritures.ch/)
 - [Laure Devaux Allisson](https://lauredevaux.ch/)
-- [Noémie Emery](http://pelerine-au-chocolat.blogspot.com/)
+- [Noémie Emery](https://pelerine-au-chocolat.blogspot.com/)
 - [Richard Falo](https://richardfalo.com)
 - [Diane Friedli](https://dianefriedli.ch/)
 - [Nicolas Friedli](https://theologique.ch/)
-- [Maurice Gardiol](http://www.gardiol.net)
+- [Maurice Gardiol](https://www.gardiol.net)
 - [Philippe Golaz](https://philippegolaz.ch/)
 - [Jerôme Grandet](https://jeromeg.ch/)
 - [Martin Hoegger](https://martin.hoegger.org)
@@ -39,18 +41,18 @@ Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli
 - [Shafique Keshavjee](https://shafique-keshavjee.com/)
 - [Sandrine Landeau](https://sandrinelandeau.net/)
 - [Félix Moser](https://moser-felix.ch/)
-- [Jean-Jacques Corbaz](http://textesdejjcorbaz.blogspot.com/)
+- [Jean-Jacques Corbaz](https://textesdejjcorbaz.blogspot.com/)
 - [Jean-Marc Leresche](https://jeanmarcleresche.ch/) et [Meditheoblog](https://meditheoblog.wordpress.com/)
 - [Aurélie Netz](https://aurelienetz.ch/)
 - [Hyonou Paik](https://potinsdivins.wordpress.com/)
 - [Stella Pastoris](https://leblogduneveilleuse.blogspot.com/)
-- [Marc Pernot](http://marcpernot.net/) et [Je cherche Dieu](https://jecherchedieu.ch/)
+- [Marc Pernot](https://marcpernot.net/) et [Je cherche Dieu](https://jecherchedieu.ch/)
 - [Nicole Rochat](https://nicolerochat.ch/)
 - [Alexandre Winter](https://lesensdelamarche.net/)
 
 ## Culture
 
-- [Ma femme est pasteure](http://www.mafemmeestpasteure.ch/)
+- [Ma femme est pasteure](https://www.mafemmeestpasteure.ch/)
 - [Musée international de la Réforme](https://www.musee-reforme.ch/)
 - [TemPL’Oz Arts](https://www.templozarts.ch/)
 
@@ -58,7 +60,7 @@ Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli
 
 - [Atelier Œcuménique de théologie](https://aotge.clubdesk.com/)
 - [Cèdres Formation](https://cedresformation.ch/)
-- [Comcat - catéchèse francophone des Églises réformées Berne-Jura-Soleure](http://cate.ch)
+- [Comcat - catéchèse francophone des Églises réformées Berne-Jura-Soleure](https://cate.ch)
 - [Faculté de théologie de Genève](https://www.unige.ch/theologie/)
 - [Faculté de théologie et de sciences des religions de Lausanne](https://www.unil.ch/ftsr/)
 - [Héros Bibliques](https://heros-bibliques.ch/)
@@ -76,23 +78,23 @@ Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli
 - [Éditions Ouvertures](https://editionsouverture.ch/)
 - [Réf-Éditions](https://ref-editions.ch) (ex OPEC)
 - [La Revue des Cèdres](https://revuedescedres.ch/)
-- [Revue Lire & Dire](http://www.lire-et-dire.ch/)
+- [Revue Lire & Dire](https://www.lire-et-dire.ch/)
 
 ## Ressources professionnelles
 
 - [Commission Jurassienne de Liturgie](https://celebrations.refbejuso.ch/)
 - [CulteBox](https://cultebox.ch/)
-- [Emploi-Église](http://www.emploi-eglise.ch/)
+- [Emploi-Église](https://www.emploi-eglise.ch/)
 - [Société pastorale suisse (SPS)](https://www.pfarrverein.ch/)
 
 ## Églises
 
-- [Berne-Jura-Soleure (RefBeJuSo)](http://www.refbejuso.ch/)
+- [Berne-Jura-Soleure (RefBeJuSo)](https://www.refbejuso.ch/)
 - [Fribourg (EERF)](https://www.ref-fr.ch/)
 - [Genève (EPG)](https://epg.ch/)
 - [Jura](https://www.egliserefju.ch/)
 - [Suisse (EERS)](https://www.evref.ch/)
-- [Suisse alémanique (CERFSA)](http://cerfsa.ch/)
+- [Suisse alémanique (CERFSA)](https://cerfsa.ch/)
 - [Vaud (EERV)](https://eerv.ch/)
 - [Valais (EREV)](https://erev.ch/)
 
@@ -113,4 +115,4 @@ Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli
 - [Église en route](https://egliseenroute.ch/)
 - [EPER](https://www.eper.ch/)
 - [La Lanterne](https://www.eren.ch/lanterne)
-- [Plateforme interreligieuse de Genève](http://www.interreligieux.ch/)
+- [Plateforme interreligieuse de Genève](https://www.interreligieux.ch/)
