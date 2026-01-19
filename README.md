@@ -10,12 +10,11 @@ Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli
 
 - [Avent en vers](https://aventenvers.blogspot.com/)
 - [Cèdres Réflexion](https://cedresreflexion.ch/)
-- [Célébrer.ch](https://celebrer.ch/)
 - [ContactGPS](https://www.contactgps.ch)
 - [Labo khi](https://labokhi.ch)
 - [Miettes de Carême](https://miettesdecareme.blogspot.com/)
 - [Open Source Church](https://www.open-source.church/)
-- [Perspectives protestantes](https://perspectivesprotestantes.ch/)
+- [Perspectives protestantes](http://perspectivesprotestantes.ch/)
 - [Pertinence](https://www.pertinence.ch/)
 - [Rassemblement pour un renouveau réformé (R3)](https://www.ler3.ch/)
 
@@ -25,14 +24,14 @@ Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli
 - [Gilles Bourquin](https://gillesbourquin.ch/)
 - [Martin Burkhard](https://coeuretmonde.wordpress.com/)
 - [Benjamin Corbaz](https://carnetderoutedunpasteurpassionne.blogspot.com/)
-- [Carolina Costa](https://carolina-costa.com/) et [Road Trip Spirituel](https://www.roadtripspirituel.ch/)
+- [Carolina Costa](https://carolina-costa.com/) et [Road Trip Spirituel](https://roadtripspirituel.ch/)
 - [Claude Demissy](https://www.claude-ecritures.ch/)
 - [Laure Devaux Allisson](https://lauredevaux.ch/)
 - [Noémie Emery](https://pelerine-au-chocolat.blogspot.com/)
 - [Richard Falo](https://richardfalo.com)
 - [Diane Friedli](https://dianefriedli.ch/)
 - [Nicolas Friedli](https://theologique.ch/)
-- [Maurice Gardiol](https://www.gardiol.net)
+- [Maurice Gardiol](https://gardiol.net)
 - [Philippe Golaz](https://philippegolaz.ch/)
 - [Jerôme Grandet](https://jeromeg.ch/)
 - [Martin Hoegger](https://martin.hoegger.org)
@@ -52,9 +51,9 @@ Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli
 
 ## Culture
 
-- [Ma femme est pasteure](https://www.mafemmeestpasteure.ch/)
+- [Ma femme est pasteure](http://www.mafemmeestpasteure.ch/)
 - [Musée international de la Réforme](https://www.musee-reforme.ch/)
-- [TemPL’Oz Arts](https://www.templozarts.ch/)
+- [TemPL’Oz Arts](https://templozarts.ch/)
 
 ## Formation
 
@@ -62,7 +61,7 @@ Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli
 - [Cèdres Formation](https://cedresformation.ch/)
 - [Comcat - catéchèse francophone des Églises réformées Berne-Jura-Soleure](https://cate.ch)
 - [Faculté de théologie de Genève](https://www.unige.ch/theologie/)
-- [Faculté de théologie et de sciences des religions de Lausanne](https://www.unil.ch/ftsr/)
+- [Faculté de théologie et de sciences des religions de Lausanne](https://www.unil.ch/ftsr/fr/home.html)
 - [Héros Bibliques](https://heros-bibliques.ch/)
 - [Réf-Formation](https://ref-formation.ch) (ex OPF)
 - [Société Vaudoise de Théologie](https://svth.ch/)
@@ -93,16 +92,16 @@ Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli
 - [Fribourg (EERF)](https://www.ref-fr.ch/)
 - [Genève (EPG)](https://epg.ch/)
 - [Jura](https://www.egliserefju.ch/)
-- [Suisse (EERS)](https://www.evref.ch/)
+- [Suisse (EERS)](https://www.eks-eers.ch/fr/)
 - [Suisse alémanique (CERFSA)](https://cerfsa.ch/)
-- [Vaud (EERV)](https://eerv.ch/)
+- [Vaud (EERV)](https://www.eerv.ch/accueil)
 - [Valais (EREV)](https://erev.ch/)
 
 ## Médias
 
-- [Réf-Médias](https://www.ref-medias.ch) (ex Médias-pro)
-- [ProtestInfo](https://www.protestinfo.ch)
-- [Journal Réformés](https://www.reformes.press/)
+- [Réf-Médias](https://www.reformes.ch/source/ref-medias) (ex Médias-pro)
+- [ProtestInfo](https://www.reformes.ch/source/protestinfo)
+- [Journal Réformés](https://www.reformes.ch/source/reformes-le-journal)
 - [Portail Réformés.ch](https://www.reformes.ch/)
 
 ## Solidarité
@@ -110,9 +109,9 @@ Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli
 - [ACAT-Suisse](https://www.acat.ch/fr/)
 - [Aumônerie Genevoise Œcuménique auprès des Requérants d’Asile et des Réfugiés (AGORA)](https://agora-asile.ch/)
 - [Mouvement chrétien citoyen](https://mouvement-chretien-citoyen.ch/)
-- [Diaconie.ch](https://www.diaconie.ch/)
+- [Diaconie Suisse](https://diakonie.ch/fr/)
 - [DM Dynamique dans l’échange (ex DM échange et mission)](https://www.dmr.ch/)
 - [Église en route](https://egliseenroute.ch/)
 - [EPER](https://www.eper.ch/)
-- [La Lanterne](https://www.eren.ch/lanterne)
-- [Plateforme interreligieuse de Genève](https://www.interreligieux.ch/)
+- [La Lanterne](https://www.eren.ch/lanterne/)
+- [Plateforme interreligieuse de Genève](https://www.interreligieux.ch/wp/)
