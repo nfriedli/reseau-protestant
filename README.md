@@ -34,7 +34,7 @@ Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli
 - [Martin Hoegger](https://martin.hoegger.org)
 - [Elio Jaillet](https://eliojaillet.ch/)
 - [Olivier Keshavjee](https://www.theologeek.ch/)
-- [Shafique Keshavjee](https://skblog.ch)
+- [Shafique Keshavjee](https://shafique-keshavjee.com/)
 - [Sandrine Landeau](https://sandrinelandeau.net/)
 - [Félix Moser](https://moser-felix.ch/)
 - [Jean-Jacques Corbaz](http://textesdejjcorbaz.blogspot.com/)
