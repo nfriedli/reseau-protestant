@@ -31,6 +31,7 @@ Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli
 - [Diane Friedli](https://dianefriedli.ch/)
 - [Maurice Gardiol](http://www.gardiol.net)
 - [Philippe Golaz](https://philippegolaz.ch/)
+- [Jerôme Grandet](https://jeromeg.ch/)
 - [Martin Hoegger](https://martin.hoegger.org)
 - [Elio Jaillet](https://eliojaillet.ch/)
 - [Olivier Keshavjee](https://www.theologeek.ch/)
