@@ -56,7 +56,7 @@ Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli
 
 ## Formation
 
-- [Atelier Œcuménique de théologie](https://www.aotge.ch/)
+- [Atelier Œcuménique de théologie](https://aotge.clubdesk.com/)
 - [Cèdres Formation](https://cedresformation.ch/)
 - [Comcat - catéchèse francophone des Églises réformées Berne-Jura-Soleure](http://cate.ch)
 - [Faculté de théologie de Genève](https://www.unige.ch/theologie/)
