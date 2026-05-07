@@ -1,7 +1,8 @@
 # Réseau protestant réformé de Suisse romande
 
 Le [Réseau protestant](https://reseau-protestant.ch/) a été mis en sommeil en décembre 2025.
-Cette page reprend la [liste de sites](https://reseau-protestant.ch/liste/) qu’il proposait et l’actualise.
+Cette page reprend la [liste de sites](https://reseau-protestant.ch/liste/) qu’il proposait et l’actualise. 
+**N'est plus en ligne.**
 
 La chronologie des modifications est visible dans les [commits](https://github.com/nfriedli/reseau-protestant/commits/master/).
 Vos propositions peuvent être adresses par [issues](https://github.com/nfriedli/reseau-protestant/issues), [pull requests](https://github.com/nfriedli/reseau-protestant/pulls) ou simple message à <nicolas+reseau@theologique.ch>.
